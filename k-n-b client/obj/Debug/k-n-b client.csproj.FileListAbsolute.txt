@@ -1,0 +1,10 @@
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\bin\Debug\k-n-b client.exe.config
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\bin\Debug\k-n-b client.exe
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\bin\Debug\k-n-b client.pdb
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\obj\Debug\k-n-b client.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\obj\Debug\k_n_b_client.Form1.resources
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\obj\Debug\k_n_b_client.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\obj\Debug\k-n-b client.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\obj\Debug\k-n-b client.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\obj\Debug\k-n-b client.exe
+F:\Users\MrTokin\source\repos\k-n-b client\k-n-b client\obj\Debug\k-n-b client.pdb
