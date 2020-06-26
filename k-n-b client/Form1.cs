@@ -85,7 +85,8 @@ namespace k_n_b_client
                 if (gameValue.Equals(gameValueEnemy))
                 {
                     result = "Ничья!";
-                }else if (gameValue.Equals("kam"))
+                }
+                else if (gameValue.Equals("kam"))
                 {
                     if (gameValueEnemy.Equals("noz"))
                     {
